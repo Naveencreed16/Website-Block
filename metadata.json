@@ -1,0 +1,5 @@
+{
+  "name": "GuardianNet Web Filter",
+  "description": "A smart content moderation dashboard powered by Gemini. Analyze text for 18+ content, manage filter sensitivity, and view safety analytics.",
+  "requestFramePermissions": []
+}
